@@ -23,8 +23,8 @@
         "phpunit/phpunit": "~5.7"
     },
     "authors": [{
-        "name": "dzh",
-        "email": "daizhong@yunpian.com",
+        "name": "boxplay",
+        "email": "903199865@qq.com",
         "role": "Developer"
     }],
     "type": "library",
