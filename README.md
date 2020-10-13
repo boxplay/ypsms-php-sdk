@@ -12,8 +12,6 @@
     }
 ```
 
-**注**: master 是最新稳定版。我们会更新到[Packagist](https://packagist.org/explore/)
-
 - 使用 YunpianClient
 
 ```php
